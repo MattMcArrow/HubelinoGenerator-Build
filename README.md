@@ -1,5 +1,6 @@
 # HubelinoGenerator-Build
 This repository contains Unity build of Hubelino Generator app.
+![Hubelino generator in play mode](title.png)
 ## Features
 - [x] Basic editor functions (placing, removing, coloring)
 - [x] Changing size and building set 
