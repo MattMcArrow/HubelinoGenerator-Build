@@ -11,3 +11,17 @@ This repository contains Unity build of Hubelino Generator app.
 - [x] Playing mode
 - [ ] Generating runs
 - [ ] Assisted building mode
+## Controls
+### Camera
+WSAD - move  
+Middle mouse hold - rotate  
+Ctrl + right mouse - zoom  
+Ctrl + left mouse - pan  
+### Editor
+Left mouse - action  
+Right mouse - part rotation  
+Scroll wheel - part select  
+### Shortcuts
+Z/Y - undo/redo  
+Tab - place/remove toggle  
+Keys 1-4 - mode select  
